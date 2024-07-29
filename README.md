@@ -1,0 +1,8 @@
+This is a simple Note taking website where you can save your notes efficiently
+
+Tech stack:-
+   React js
+   HTML
+   CSS
+
+Deployment Link- https://note-manager-kohl.vercel.app/
